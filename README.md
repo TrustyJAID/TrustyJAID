@@ -20,7 +20,7 @@ Don't let this fool you, it's mostly Python.
 
 [![discord](https://img.shields.io/badge/Discord-TrustyJAID%230001-7289DA?logo=discord&style=for-the-badgel)]("https://discord.trustyjaid.com")
 [![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
-[![TrustyJAID](https://cdn.discordapp.com/attachments/371817142854746112/528059607705321482/Follow_me-TrustyJAID-yellow.svg)](https://trustyjaid.com/)
+[![TrustyJAID](https://trustyjaid.com/img/Follow_me-TrustyJAID-yellow.svg)](https://trustyjaid.com/)
 [![Donate to help support more cog creation](https://img.shields.io/badge/Paypal-Donate-blue.svg)](https://paypal.me/TrustyJAID)
 [![Subscribe on Patreon](https://img.shields.io/badge/Patreon-Follow-orange.svg)](https://www.patreon.com/TrustyJAID)
 [![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/trustyjaid?style=social?style=for-the-badge)](https://www.reddit.com/user/trustyjaid)
