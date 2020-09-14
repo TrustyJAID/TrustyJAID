@@ -23,9 +23,9 @@ Don't let this fool you, it's mostly Python.
 [![TrustyJAID](https://trustyjaid.com/img/Follow_me-TrustyJAID-yellow.svg)](https://trustyjaid.com/)
 [![Donate to help support more cog creation](https://img.shields.io/badge/Paypal-Donate-blue.svg)](https://paypal.me/TrustyJAID)
 [![Subscribe on Patreon](https://img.shields.io/badge/Patreon-Follow-orange.svg)](https://www.patreon.com/TrustyJAID)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/trustyjaid?style=social?style=for-the-badge)](https://www.reddit.com/user/trustyjaid)
+[![Keybase PGP](https://img.shields.io/keybase/pgp/TrustyJAID?style=social?style=for-the-badge)](https://keybase.io/trustyjaid)
 [![Twitch Status](https://img.shields.io/twitch/status/trustyjaid)](https://twitch.tv/trustyjaid)
-[![Keybase PGP](https://img.shields.io/keybase/pgp/TrustyJAID?style=for-the-badge)](https://keybase.io/trustyjaid)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/trustyjaid?style=social?style=for-the-badge)](https://www.reddit.com/user/trustyjaid)
 [![Twitter Follow](https://img.shields.io/twitter/follow/TrustyJAID?style=social)](https://twitter.com/TrustyJAID)
 
 
