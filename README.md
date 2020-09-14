@@ -1,17 +1,18 @@
 ## I am a Materials Engineering Technologist that produces music, programs, and plays video games.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrustyJAID&show_icons=true&layout=compact&theme=dark&count_private=true" width="500" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrustyJAID&show_icons=true&layout=compact&theme=dark&count_private=true" width="512" />
     </a>
 <br/>
 Don't let this fool you, it's mostly Python
-    <a href="https://github.com/anuraghazra/github-readme-stats">
-        <img align="center" width="512" src="https://github-readme-stats.vercel.app/api?username=TrustyJAID&show_icons=true&theme=dark&count_private=true" />
-    </a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="512" src="https://github-readme-stats.vercel.app/api?username=TrustyJAID&show_icons=true&theme=dark&count_private=true" />
+</a>
 <br/>
 
-<iframe src="https://trustyjaid.com" name="myWebsite" height="512" width=90% ></iframe>
+<p><iframe src="https://trustyjaid.com" name="myWebsite" height="512" width=90% ></iframe></p>
 <p><a href="https://trustyjaid.com" target="myWebsite">Open TrustyJAID.com</a></p>
+</br>
 
 [![discord](https://img.shields.io/badge/Discord-TrustyJAID%230001-7289DA?logo=discord&style=for-the-badgel)]("https://discord.trustyjaid.com")
 [![Red-DiscordBot](https://img.shields.io/badge/Red--DiscordBot-V3-red.svg)](https://github.com/Cog-Creators/Red-DiscordBot)
