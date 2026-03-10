@@ -1,12 +1,16 @@
 ## I am a Materials Engineering Technologist that produces music, programs, and plays video games.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-<img align="center" src="./profile/stats.svg" width="512" />
+<img align="center" src="./profile/top-langs.svg" width="512" />
     </a>
 <br/>
 <p>
 Don't let this fool you, it's mostly Python.
 </p>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+    <img align="center" width="512" src="./profile/stats.svg" />
+</a>
+<br/>
 
 <!--
 <p><iframe src="https://trustyjaid.com" name="myWebsite" height="512" width=90% >https://TrustyJAID.com</iframe></p>
